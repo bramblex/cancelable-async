@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cancelable-async/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/cancelable-async/static/js/main.2affa5cc.chunk.js",
+    "main.js.map": "/cancelable-async/static/js/main.2affa5cc.chunk.js.map",
+    "runtime-main.js": "/cancelable-async/static/js/runtime-main.8aa959fa.js",
+    "runtime-main.js.map": "/cancelable-async/static/js/runtime-main.8aa959fa.js.map",
+    "static/js/2.5f419653.chunk.js": "/cancelable-async/static/js/2.5f419653.chunk.js",
+    "static/js/2.5f419653.chunk.js.map": "/cancelable-async/static/js/2.5f419653.chunk.js.map",
+    "index.html": "/cancelable-async/index.html",
+    "precache-manifest.500f5e9e1eff1943436dd5a6f350bdd7.js": "/cancelable-async/precache-manifest.500f5e9e1eff1943436dd5a6f350bdd7.js",
+    "service-worker.js": "/cancelable-async/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/cancelable-async/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.5f419653.chunk.js.LICENSE.txt": "/cancelable-async/static/js/2.5f419653.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa959fa.js",
+    "static/js/2.5f419653.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.2affa5cc.chunk.js"
+  ]
+}
